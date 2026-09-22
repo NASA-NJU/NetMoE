@@ -1,0 +1,9 @@
+[submodule "thirdparty/DeepEP"]
+	path = thirdparty/DeepEP
+	url = git@github.com:NASA-NJU/NetMoE-DeepEP.git
+[submodule "thirdparty/DeepGEMM"]
+	path = thirdparty/DeepGEMM
+	url = git@github.com:NASA-NJU/NetMoE-DeepGEMM.git
+[submodule "thirdparty/SGLang"]
+	path = thirdparty/SGLang
+	url = git@github.com:NASA-NJU/NetMoE-SGLang.git
